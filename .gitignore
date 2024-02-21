@@ -1,0 +1,3 @@
+# onnxとptファイル
+*.onnx
+*.pt
