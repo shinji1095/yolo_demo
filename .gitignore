@@ -1,3 +1,11 @@
 # onnxとptファイル
 *.onnx
 *.pt
+
+# 動画ファイル
+/inputs/video/*.mp4
+
+# 画像ファイル
+/inputs/image/*.png
+/inputs/image/*.jpg
+/inputs/image/*.jpeg
