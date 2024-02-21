@@ -1,4 +1,9 @@
 # YOLO Demo
+YOLOサンプルプログラムです。デモ動画に対して物体検出を実行しトラッキングするプログラムになっています。
+
+# Video
+1. [Google Drive](https://drive.google.com/drive/folders/1SAQnS2szNc2XKcdfoDKPObQ4gJwUh2uK?usp=sharing)から動画をダウンロードする
+2. input/videoディレクトリに展開
 
 # Model
 1. [Google Drive](https://drive.google.com/drive/folders/1Qn1gi3lDGF1bG8eht6gr52rEWwN4zFg5?usp=sharing)からのonnxファイルとptファイルをダウンロード
