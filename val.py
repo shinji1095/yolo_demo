@@ -4,9 +4,7 @@ from ultralytics import YOLO
 
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
-base = r'C:\Users\shinj\Projects\Python\Sasaki\share\inputs\dataset'
-name = 'data47'
-video = os.path.join(base, name, 'movie.mp4')
+video = r'inputs\video\10.mp4'
 model_path = r'vidvipo_yolov8n_2023-05-19.pt'
 print(video)
 
