@@ -16,4 +16,4 @@ YOLOサンプルプログラムです。デモ動画に対して物体検出を�
 1. pythonのバージョンが3.8であることを確認
 2. git clone https://github.com/shinji1095/yolo_demo.git
 3. cd yolo_demo
-4. コマンドプロンプト上で`pip install -r requirements`を実行
+4. コマンドプロンプト上で`pip install -r requirements.txt`を実行
